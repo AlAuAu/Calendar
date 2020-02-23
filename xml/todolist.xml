@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<events>
+    <event title="课程设计" startdate="2020-2-19" endtime="12:00" place="家里" done="false" detail="" starttime="8:00" enddate="2020-2-19">
+        <item title="做PPT" done="true"/>
+        <item title="录视频" done="true"/>
+        <item title="写报告" done="false"/>
+    </event>
+</events>

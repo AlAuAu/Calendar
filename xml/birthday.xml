@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<birthdays>
+    <birthday lyear="2002" islunar="false" name="张三" smonth="7" lday="26" hasyear="true" lmonth="5" leap="false" sday="6" syear="2002"/>
+    <birthday lyear="2009" islunar="true" name="王麻子" smonth="4" lday="1" hasyear="true" lmonth="4" leap="false" sday="25" syear="2009"/>
+</birthdays>
